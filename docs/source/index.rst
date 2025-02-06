@@ -1,22 +1,12 @@
-Welcome to Lumache's documentation!
+KM88 - Thiên đường cá cược giải trí đình đám 2025
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+KM88, Thiên đường cá cược giải trí trực tuyến đình đám 2025 được nhiều người chơi và chuyên gia bình chọn. Tại đây, các trò chơi quen thuộc như game 3d, xổ số, casino, thể thao hiện đang rất được ưa chuộng. Bên cạnh đó, tỷ lệ trả thưởng vô cùng hấp dẫn, bộ phận hỗ trợ khách hàng tận tâm, phục vụ 24/24 đảm bảo hỗ trợ cược thủ những thông tin cần thiết nhất. Đăng ký trải nghiệm ngay hôm nay!
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Website: https://km88i.net/
 
-.. note::
+SĐT: 0372540074
 
-   This project is under active development.
+Địa chỉ: Đường Khương Hữu Dụng, Phường Hòa Xuân, Cẩm Lệ, Đà Nẵng
 
-Contents
---------
-
-.. toctree::
-
-   usage
-   api
+#km88 #km88inet #km88casino #km88bet
